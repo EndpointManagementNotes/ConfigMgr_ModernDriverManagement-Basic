@@ -13,4 +13,3 @@ The script works with the following workflow
 4. Matches driver package to computer details
 5. Downloads the driver package
 6. Unzipps and then installs the drivers
-7. 
